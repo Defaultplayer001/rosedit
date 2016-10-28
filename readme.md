@@ -1,12 +1,16 @@
-V.01. INCOMPLETE!
+V.02. INCOMPLETE!
 
-This is the first release, I have attempted to be as thorough as possible, however it is quite likely there are undiscovered keypresses.
+This is the first release, I have attempted to be as thorough as possible, however it is quite possible, if not likely, there are undiscovered functions.
 
-Please report any strange behavior/discovered keypress/editing methods on the /r/subrosanrc subreddit or by making an issue on github!
+Please report any strange behavior/discovered functions/editing methods on the /r/subrosanrc subreddit or by making an issue on github!
+
+Until a more permanent solution is found, you may use this Sub for loose,incoomplete, and rough modded file posts if you like. 
+
+Feel free to contact me /u/Defaultplayer001 or Star-LoRed on Steam directly with any questions!
 
 #**rosedit**
 
-Welcome to the rosedit readme.txt These are unofficial patched Sub Rosa executables that enable editing mode. Nearly all copies of Sub Rosa already have editing mode embedded inside them, they just havent been enabled.
+Welcome to the rosedit readme.txt These are unofficial patched Sub Rosa executables that enable a built in editing mode. Nearly all copies of Sub Rosa already have editing mode embedded inside them, they just havent been enabled.
 
 On behalf of all [srs] I hope you enjoy!
 
@@ -19,7 +23,7 @@ Star-LoRED (/u/Defaultplayer001) for writing an in-depth documentation for editi
 0.25
 ####**Important Note**
 
-The download link is hosted separatley from GitHub for security reasons. The modified executables are the sole property of Cryptic Sea, and are to be used for educational purposes only. We are not responsible and do not condone any malicious activity used with these modified executables.
+The download link is hosted separatley from GitHub for security reasons. The modified executables are the sole property of Cryptic Sea, and are to be used for educational purposes only. We are not responsible and do not condone any malicious activity attempted with these modified executables.
 
 #**Installation****
 
@@ -38,8 +42,7 @@ Note on custom textures: The editor will load any textures of the right file typ
 E = Editor
 D = Practice
 S = Start
-V = Voice Options
-U = User list?
+U = User list? NOT RELEVANT INFORMATION FOR EDITING IGNORE
 O = Options
 #**Editor**
 
@@ -107,6 +110,8 @@ Right click green dots to disable them.
 
 Left click a model type to place, right click to delete.
 
+Hold 
+
 **F3: Building tools**
 
 Left click on the building you want to place.
@@ -156,5 +161,7 @@ Controls:
 **F5**: Refresh map
 
 **F6**: Render the entire scene in wireframe mode
+
+**F10** Cheat Toggle, spent hours trying to figure out what this does, can only find that it modifies the "Cheat" toggle value in an F11 information page. PLEASE tell me if you find out anything this changes. 
 
 **F11**: Cycle through various editing information
