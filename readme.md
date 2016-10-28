@@ -1,4 +1,4 @@
-V.02. INCOMPLETE!
+V.02 INCOMPLETE!
 
 This is the first release, I have attempted to be as thorough as possible, however it is quite possible, if not likely, there are undiscovered functions.
 
@@ -25,7 +25,7 @@ Star-LoRED (/u/Defaultplayer001) for writing an in-depth documentation for editi
 
 The download link is hosted separatley from GitHub for security reasons. The modified executables are the sole property of Cryptic Sea, and are to be used for educational purposes only. We are not responsible and do not condone any malicious activity attempted with these modified executables.
 
-#**Installation****
+#**Installation**
 
 Simply place each executable in your Sub Rosa root directory.
 
@@ -39,11 +39,11 @@ Note on custom textures: The editor will load any textures of the right file typ
 
 #**Main Menu Hotkeys**
 
-E = Editor
-D = Practice
-S = Start
-U = User list? NOT RELEVANT INFORMATION FOR EDITING IGNORE
-O = Options
+**E**: Editor
+**D**: Practice
+**S**: Start
+**U**: User list? NOT RELEVANT INFORMATION FOR EDITING IGNORE
+**O**: Options
 
 In-game Controls For Both Modes
 
