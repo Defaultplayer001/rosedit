@@ -40,9 +40,13 @@ Note on custom textures: The editor will load any textures of the right file typ
 #**Main Menu Hotkeys**
 
 **E**: Editor
+
 **D**: Practice
+
 **S**: Start
+
 **U**: User list? NOT RELEVANT INFORMATION FOR EDITING IGNORE
+
 **O**: Options
 
 In-game Controls For Both Modes
