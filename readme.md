@@ -44,6 +44,59 @@ D = Practice
 S = Start
 U = User list? NOT RELEVANT INFORMATION FOR EDITING IGNORE
 O = Options
+
+In-game Controls For Both Modes
+
+Basic movement is, of course, the same as Sub Rosa defaultt.
+
+If unfamiliar, all you really need to know for the editor is:
+
+WASD: Movement
+Mouse: Camera controls
+E: Enter Vehicles
+
+**6**: Freecam
+
+Controls:
+
+**W**,**A**,**S**,**D**: Movement Hold Right mouse button to look around. 
+**Q**: Up 
+**Z**: Down
+
+**7**: Original body
+
+**8**: AI body 1 if available
+
+**9**: AI body 2 if available
+
+**0**: AI body 3 if available
+
+**+ & =**: Toggles the "Press F1 to toggle help" text.
+
+**``I``**: Slow-mo
+
+**O**: Toggle pause
+
+**P**: Pause simulation
+
+**K**: Render shadow maps
+
+**[ & ]**: Adjust day/night cycle
+
+**,**: Editing info(?)
+
+**X**: 3rd-person camera
+
+**B**: Render every phsyics affected object in wireframe
+
+**F5**: Refresh map
+
+**F6**: Render the entire scene in wireframe mode
+
+**F10** Cheat Toggle, spent hours trying to figure out what this does, can only find that it modifies the "Cheat" toggle value in an F11 information page. PLEASE tell me if you find out anything this changes. 
+
+**F11**: Cycle through various editing information
+
 #**Editor**
 
 Funtion key tools: Press F1 to enter the function tools "menu" then F1-F6 for editing tools, detailed below.
@@ -122,46 +175,4 @@ Left click on the building you want to place.
 
 **T**: Rotate
 
-In-game Controls
 
-**6**: Freecam
-
-Controls:
-
-**W**,**A**,**S**,**D**: Movement Hold Right mouse button to look around. 
-**Q**: Up 
-**Z**: Down
-
-**7**: Original body
-
-**8**: AI body 1 if available
-
-**9**: AI body 2 if available
-
-**0**: AI body 3 if available
-
-**+** & **=**: Toggles the "Press F1 to toggle help" text, does not actually let you toggle help, as F1 still goes to the block editing tool.
-
-**``I``**: Slow-mo
-
-**O**: Toggle pause
-
-**P**: Pause simulation
-
-**K**: Render shadow maps
-
-**[** & **]**: Adjust day/night cycle
-
-**,**: Editing info(?)
-
-**X**: 3rd-person camera
-
-**B**: Render everything in wireframe for "moving" models
-
-**F5**: Refresh map
-
-**F6**: Render the entire scene in wireframe mode
-
-**F10** Cheat Toggle, spent hours trying to figure out what this does, can only find that it modifies the "Cheat" toggle value in an F11 information page. PLEASE tell me if you find out anything this changes. 
-
-**F11**: Cycle through various editing information
