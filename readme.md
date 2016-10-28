@@ -4,16 +4,16 @@ This is the first release, I have attempted to be as thorough as possible, howev
 
 Please report any strange behavior/discovered keypress/editing methods on the /r/subrosanrc subreddit or by making an issue on github!
 
-#**DebugRosa**
+#**rosedit**
 
-Welcome to the debugrosa.exe readme.txt! These are unofficial patched Sub Rosa executables that enable debug mode. Nearly all copies of Sub Rosa already have debug mode embedded inside them, they just havent been enabled.
+Welcome to the rosedit readme.txt These are unofficial patched Sub Rosa executables that enable editing mode. Nearly all copies of Sub Rosa already have editing mode embedded inside them, they just havent been enabled.
 
 On behalf of all [srs] I hope you enjoy!
 
 #**Credits**
 
-NAMEREDACTED for finding debug mode and patching the executables.
-Star-LoRED (/u/Defaultplayer001) for writing an in-depth documentation for debug mode.
+NAMEREDACTED for finding editing mode and patching the executables.
+Star-LoRED (/u/Defaultplayer001) for writing an in-depth documentation for editing mode.
 #**Supported versions**
 
 0.25
@@ -39,7 +39,6 @@ E = Editor
 D = Practice
 S = Start
 V = Voice Options
-J = Join
 U = User list?
 O = Options
 #**Editor**
@@ -148,7 +147,7 @@ Controls:
 
 **[** & **]**: Adjust day/night cycle
 
-**,**: Debug info(?)
+**,**: Editing info(?)
 
 **X**: 3rd-person camera
 
@@ -158,4 +157,4 @@ Controls:
 
 **F6**: Render the entire scene in wireframe mode
 
-**F11**: Cycle through various debugging information
+**F11**: Cycle through various editing information
