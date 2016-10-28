@@ -49,7 +49,7 @@ Note on custom textures: The editor will load any textures of the right file typ
 
 **O**: Options
 
-In-game Controls For Both Modes
+#**In-Person Controls For Both Modes**
 
 Basic movement is, of course, the same as Sub Rosa defaultt.
 
