@@ -17,7 +17,8 @@ On behalf of all [srs] ,I hope you enjoy!
 #**Credits**
 
 /u/hontro for finding editing mode and patching the executables.
-Star-LoRED (/u/Defaultplayer001) for writing an in-depth documentation for editing mode.
+
+Star-LoRED (/u/Defaultplayer001) for writing an in-depth documentation for editing mode and work in the patch.
 #**Supported versions**
 
 0.25
@@ -64,7 +65,9 @@ E: Enter Vehicles
 Controls:
 
 **W**,**A**,**S**,**D**: Movement Hold Right mouse button to look around. 
+
 **Q**: Up 
+
 **Z**: Down
 
 **7**: Original body
