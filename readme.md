@@ -109,17 +109,19 @@ Funtion key tools: Press F1 to enter the function tools "menu" then F1-F6 for ed
 
 **``1``**: Block
 
-Y: Toggle floor
+``Y``: Toggle floor
 
-2: Interior Spec
+``2``: Interior Spec
 
-Click the blank space in the middle of the right black bar, then Mouse-wheel to scroll through imported objects.
+Left click anywhere to place a block, right click to delete. 
 
-Left click to place, Right click to delete.
+Click the blank space in the middle of the right hand panel, then Mouse-wheel to scroll through imported objects.
 
-Hold shift then drag the mouse to select an area. press E to fill with the currently selected block type, and DEL(not backspace!) to delete.
+Same as before, left click to place, right click to delete.
 
-[ & ]: Palette tools, haven't worked out the specifics.
+Mouse Wheel through the blocks on the right hand to cycle through appliied textures on objects, I'll go through and figure this out exactly later, I've learned it by "feel". Sorta annoying. Will only cycle through textures imported under the 
+
+[ & ]: Palette tools, cycle to apply a color filter to the selected texture.
 
 3: Exterior Spec
 
@@ -136,10 +138,10 @@ Same as above, haven't worked out how the differ exactly, but, some models seem 
 **F4 :Objects**
 
     Seems to control AI building disc spawn location. Further testing needed.
-**F5: Tile types**
+**F5: Textures**
 
-    Select a tile from lower section, and click import to add to the current building's available tiles.
-    You can also delete them from the available tiles, but I've yet to find a compelling reason to ever do this.
+    Select a texture from lower section, and click import to add to the current building's available textures.
+    You can also delete them from the available tiles, but I've yet to find a compelling reason to ever do this. Presumabley you will       eventually run into memory issues.
 **F6: Models**
 
     Select a Model from lower section, and click insert to add to the current building's available tiles.
