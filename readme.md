@@ -117,6 +117,8 @@ Click the blank space in the middle of the right black bar, then Mouse-wheel to 
 
 Left click to place, Right click to delete.
 
+Hold shift then drag the mouse to select an area. press E to fill with the currently selected block type, and DEL(not backspace!) to delete.
+
 [ & ]: Palette tools, haven't worked out the specifics.
 
 3: Exterior Spec
@@ -167,8 +169,11 @@ Right click green dots to disable them.
 
 Left click a model type to place, right click to delete.
 
-Hold 
-
+Modifiers, hold then left click like normal:
+1-4: Small sidewalk ramp, Various directions. Only works on the "Sidewalk" model.
+5: Grass
+6: Asphalt
+7: Pillar. Only works on the "Sidewalk" model.
 **F3: Building tools**
 
 Left click on the building you want to place.
