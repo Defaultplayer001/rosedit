@@ -2,11 +2,11 @@ V.02 INCOMPLETE!
 
 This is the first release, I have attempted to be as thorough as possible, however it is quite possible, if not likely, there are undiscovered functions.
 
-Please report any strange behavior/discovered functions/editing methods on the /r/subrosanrc subreddit or by making an issue on github!
+Please report any strange behavior/discovered functions/editing methods on the to me, the /r/subrosanrc subreddit or by making an issue on github.
 
-Until a more permanent solution is found, you may use this Sub for loose,incoomplete, and rough modded file posts if you like. 
+Until a more permanent solution is found, you may use this sub for loose, incomplete, and rough modded file posts if you like. 
 
-**PLEASE contact me /u/Defaultplayer001 AKA Star-LoRed on Steam directly with any questions or to report any issues! I'm not only ecstatic to help, but your feedback can directly impact the quality of this patch and associated documentation!**
+**PLEASE contact me /u/Defaultplayer001 AKA Star-LoRed on Steam directly with any questions ! I'm not only ecstatic to help, but your feedback can directly impact the quality of this patch and associated documentation!**
 
 #**rosedit**
 
