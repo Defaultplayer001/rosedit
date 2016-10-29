@@ -6,7 +6,7 @@ Please report any strange behavior/discovered functions/editing methods on the /
 
 Until a more permanent solution is found, you may use this Sub for loose,incoomplete, and rough modded file posts if you like. 
 
-**Feel free to contact me /u/Defaultplayer001 or Star-LoRed on Steam directly with any questions!**
+**PLEASE contact me /u/Defaultplayer001 AKA Star-LoRed on Steam directly with any questions or to report any issues! I'm not only ecstatic to help, but your feedback can directly impact the quality of this patch and associated documentation!**
 
 #**rosedit**
 
