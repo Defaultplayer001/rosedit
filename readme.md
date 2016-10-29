@@ -173,9 +173,13 @@ Left click a model type to place, right click to delete.
 
 Modifiers, hold then left click like normal:
 1-4: Small sidewalk ramp, Various directions. Only works on the "Sidewalk" model.
+
 5: Grass
+
 6: Asphalt
+
 7: Pillar. Only works on the "Sidewalk" model.
+
 **F3: Building tools**
 
 Left click on the building you want to place.
