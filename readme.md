@@ -10,13 +10,13 @@ Feel free to contact me /u/Defaultplayer001 or Star-LoRed on Steam directly with
 
 #**rosedit**
 
-Welcome to the rosedit readme.txt These are unofficial patched Sub Rosa executables that enable a built in editing mode. Nearly all copies of Sub Rosa already have editing mode embedded inside them, they just havent been enabled.
+Welcome to the rosedit readme.txt! These are unofficial patched Sub Rosa executables that enable a built in editing mode. Nearly all copies of Sub Rosa already have editing mode embedded inside them, they just havent been enabled.
 
-On behalf of all [srs] I hope you enjoy!
+On behalf of all [srs] ,I hope you enjoy!
 
 #**Credits**
 
-NAMEREDACTED for finding editing mode and patching the executables.
+/u/hontro for finding editing mode and patching the executables.
 Star-LoRED (/u/Defaultplayer001) for writing an in-depth documentation for editing mode.
 #**Supported versions**
 
