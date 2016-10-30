@@ -20,8 +20,6 @@ On behalf of all [srs] ,I hope you enjoy!
 
 Star-LoRED (/u/Defaultplayer001) for writing an in-depth documentation for editing mode and work in the patch.
 
-And of course
-
 /u/crypticsea, Cryptic Sea, the developer of Sub Rosa, and the creator of the tools. 
 #**Supported versions**
 
